@@ -7,6 +7,7 @@ This folder contains stack implementations in C.
 - Stack using Linked List (upcoming)
 
 ## Operations
+
 - Push
 - Pop
 - Peek
